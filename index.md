@@ -7,7 +7,7 @@
 
 ### What is restaurant reminder?
 
-Restaurant reminder is an app which allows you to save resturants that you have visited in the past, and give each restaurant a rating on how you felt the service.
+Restaurant reminder is an app which allows you to save resturants that you have visited in the past, and give each restaurant a rating on how you felt the service was.
 
 
 ### Who is restaurant reminder for?
